@@ -2,7 +2,8 @@
  <div>
    <a href="https://github.com/devdiminoir">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiminoir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    img:hover{border-color:solid yellow 10px;} />
+    />
+     
    
    
     
@@ -17,7 +18,7 @@
 </div>
 <br>
 <div> 
- 
+ <iframe src="https://giphy.com/embed/lkceXNDw4Agryfrwz8" width="315" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-art-jeff-lkceXNDw4Agryfrwz8">via GIPHY</a></p>
 </div>
 ### Minhas redes sociais.
  
