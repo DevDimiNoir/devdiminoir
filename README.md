@@ -1,10 +1,11 @@
 ## Bem vindo(a) ao perfil do Dimi
  <div>
    <a href="https://github.com/devdiminoir">
-   <img :hover{border-color=yellowsolid10px}  height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiminoir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img :hover{border-color:solidyellow10px} height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiminoir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
     
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiminoir&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdiminoir&layout=compact&langs_count=6&theme=tokyonight" />
+   
 
 </div>
 <div style="display: inline_block"><br>
@@ -15,10 +16,6 @@
 <br>
 
 ### Minhas redes sociais.
- 
-
- 
-
  
 <div> 
   
