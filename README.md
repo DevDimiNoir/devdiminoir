@@ -17,9 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-<div> 
- <iframe src="https://giphy.com/embed/lkceXNDw4Agryfrwz8" width="315" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-art-jeff-lkceXNDw4Agryfrwz8">via GIPHY</a></p>
-</div>
+
 ### Minhas redes sociais.
  
 <div> 
@@ -31,3 +29,8 @@
  
 
 </div>
+
+
+
+ <iframe src="https://giphy.com/embed/lkceXNDw4Agryfrwz8" width="315" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-art-jeff-lkceXNDw4Agryfrwz8">via GIPHY</a></p>
+
