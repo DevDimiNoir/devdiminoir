@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao perfil do Dimi
  <div>
-   <a:hover{border-color= yellow} href="https://github.com/devdiminoir">
+   <a:hover{border-color= yellow solid 10px} href="https://github.com/devdiminoir">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiminoir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    
     
