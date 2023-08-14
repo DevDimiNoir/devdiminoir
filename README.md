@@ -2,7 +2,7 @@
  <div>
    <a href="https://github.com/devdiminoir">
    <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=devdiminoir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    img:hover{border-color:solidyellow10px} />
+    img:hover{border-color:solidyellow10px;} />
    
    
     
